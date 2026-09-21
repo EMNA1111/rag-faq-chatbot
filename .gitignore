@@ -216,4 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Fichiers générés (régénérables avec les scripts)
+data/guide_etudiant_utm.txt
+data/chunks.json
+data/embeddings.npy
 index/
